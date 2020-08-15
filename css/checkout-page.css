@@ -1,0 +1,11 @@
+/* Required height of parents of the Half Page Carousel for proper displaying carousel itself */
+html,
+body,
+.view {
+  height: 100%; }
+
+/* Footer color for sake of consistency with Navbar */
+footer.footer {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
